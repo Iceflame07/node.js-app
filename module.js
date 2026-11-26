@@ -1,0 +1,7 @@
+const name = require('./name')
+const sayHello = require('./utils')
+const data = require('./product')
+require('./mind-grenade')
+sayHello('Chibuike')
+sayHello(name.Adepetu)
+sayHello(name.Boluwatife)

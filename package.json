@@ -1,0 +1,18 @@
+{
+  "name": "node.js-app",
+  "version": "1.0.0",
+  "description": "Scoopa Ltd",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node.js app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
